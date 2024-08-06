@@ -32,7 +32,7 @@ Successful queries return native Go structs.
 ## Install
 
 ```bash
-go get github.com/jasonodonnell/go-opendota
+go get github.com/dezeg/go-opendota
 ```
 
 ## Examples
